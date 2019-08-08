@@ -30,8 +30,8 @@
     <mask>*Com.php</mask>
     <mask>*.*</mask>
     <mask>*.json</mask>
-    <mask>*Provider.php</mask>
     <mask>*Wave*.php</mask>
     <mask>*.php</mask>
+    <mask>*Provider.php</mask>
   </component>
 </application>
