@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
@@ -29,10 +29,10 @@
     <mask>*Resolver.php</mask>
     <mask>*Com.php</mask>
     <mask>*.*</mask>
-    <mask>*.json</mask>
     <mask>*Wave*.php</mask>
     <mask>*Provider.php</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
