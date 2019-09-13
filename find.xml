@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*Repository.php" />
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -33,5 +33,6 @@
     <mask>*Test.php</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
+    <mask>*Repository.php</mask>
   </component>
 </application>
