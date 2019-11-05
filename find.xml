@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -32,11 +32,11 @@
     <mask>*Wave*.php</mask>
     <mask>*Test.php</mask>
     <mask>*Repository.php</mask>
-    <mask>*.json</mask>
     <mask>*Entity.php</mask>
     <mask>*Collection.php</mask>
     <mask>*Grid.php</mask>
     <mask>*Provider.php</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
