@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Command.php" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -32,7 +32,7 @@
     <mask>*Grid.php</mask>
     <mask>*Provider.php</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*Command.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
