@@ -2,16 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="artisan" type="PHP" />
-      <mapping pattern=".release-dh.sh.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".release-dh.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="ListOrdersByWeight.php" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
