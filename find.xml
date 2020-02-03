@@ -3,36 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
-    <mask>*.js</mask>
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="*Factory.php" />
     <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*RepositoryInterface.php</mask>
-    <mask>*Option.php</mask>
-    <mask>*Seeder.php</mask>
-    <mask>*Details.php</mask>
-    <mask>*Handler.php</mask>
-    <mask>*Request.php</mask>
-    <mask>*Factory.php</mask>
-    <mask>*php</mask>
-    <mask>*Controller.php</mask>
-    <mask>Eloquent*.php</mask>
-    <mask>*Interface.php</mask>
-    <mask>*Field.php</mask>
-    <mask>*ProviderTest.php</mask>
-    <mask>*Resolver.php</mask>
-    <mask>*Com.php</mask>
-    <mask>*.*</mask>
-    <mask>*Wave*.php</mask>
-    <mask>*Test.php</mask>
-    <mask>*Repository.php</mask>
-    <mask>*Entity.php</mask>
-    <mask>*Collection.php</mask>
-    <mask>*Grid.php</mask>
-    <mask>*Provider.php</mask>
-    <mask>*.json</mask>
-    <mask>*Command.php</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.module</mask>
+    <mask>*.phtml</mask>
+    <mask>*.hphp</mask>
+    <mask>*.ctp</mask>
     <mask>*.php</mask>
+    <mask>*Factory.php</mask>
   </component>
 </application>
