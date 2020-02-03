@@ -1,6 +1,13 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
 </keymap>
