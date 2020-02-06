@@ -2,17 +2,11 @@
   <component name="BitbucketCloudRegistry">
     <lookup>
       <record scheme="https" hostname="bitbucket.org" port="-1" instance="Production" />
-      <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
     </lookup>
   </component>
   <component name="BitbucketServerRegistry">
     <instances />
     <lookup />
   </component>
-  <component name="Instance" id="d7aa736a-e711-4cd8-84e6-b4e39e5e7f24" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-08-21T18:04:53.299Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
+  <component name="Instance" id="b94cf43c-da44-43d2-a5b7-dbb71d12f14a" />
 </application>
