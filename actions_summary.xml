@@ -37,16 +37,16 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581092969090" />
-              <option name="times" value="10" />
+              <option name="last" value="1581263505148" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581095640268" />
-              <option name="times" value="74" />
+              <option name="last" value="1581263511612" />
+              <option name="times" value="75" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,16 +317,16 @@
         <entry key="ExpandAllRegions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581092180374" />
-              <option name="times" value="4" />
+              <option name="last" value="1581263503724" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581092465784" />
-              <option name="times" value="13" />
+              <option name="last" value="1581263523460" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581092832489" />
-              <option name="times" value="29" />
+              <option name="last" value="1581263499906" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,16 +597,16 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1581092466996" />
-              <option name="times" value="11" />
+              <option name="last" value="1581263526393" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581070618949" />
-              <option name="times" value="3" />
+              <option name="last" value="1581263526170" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581093014671" />
-              <option name="times" value="31" />
+              <option name="last" value="1581263501446" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
