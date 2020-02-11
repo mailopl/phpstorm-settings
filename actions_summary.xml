@@ -61,8 +61,8 @@
         <entry key="ActivateDebugToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581433526928" />
-              <option name="times" value="23" />
+              <option name="last" value="1581436028956" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="PhpListenDebugAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581420248008" />
-              <option name="times" value="4" />
+              <option name="last" value="1581436032432" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -650,11 +650,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="TabList">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581435997603" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418153397" />
-              <option name="times" value="69" />
+              <option name="last" value="1581436007175" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +717,8 @@
         <entry key="XDebugger.MuteBreakpoints">
           <value>
             <ActionSummary>
-              <option name="last" value="1581420243521" />
-              <option name="times" value="10" />
+              <option name="last" value="1581436034073" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
