@@ -405,8 +405,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418852317" />
-              <option name="times" value="122" />
+              <option name="last" value="1581420570640" />
+              <option name="times" value="123" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="PhpListenDebugAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418048739" />
-              <option name="times" value="2" />
+              <option name="last" value="1581420248008" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419156423" />
-              <option name="times" value="418" />
+              <option name="last" value="1581420207507" />
+              <option name="times" value="419" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +517,8 @@
         <entry key="Refactorings.QuickListPopupAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581416190134" />
-              <option name="times" value="43" />
+              <option name="last" value="1581420237935" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,16 +549,16 @@
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418938148" />
-              <option name="times" value="228" />
+              <option name="last" value="1581420244353" />
+              <option name="times" value="234" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419158477" />
-              <option name="times" value="572" />
+              <option name="last" value="1581420144195" />
+              <option name="times" value="573" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +589,8 @@
         <entry key="ShowReformatFileDialog">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418548284" />
-              <option name="times" value="13" />
+              <option name="last" value="1581420142580" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -693,8 +693,8 @@
         <entry key="XDebugger.MuteBreakpoints">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419231157" />
-              <option name="times" value="4" />
+              <option name="last" value="1581420243521" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,16 +781,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419235607" />
-              <option name="times" value="100" />
+              <option name="last" value="1581420210979" />
+              <option name="times" value="109" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581418854654" />
-              <option name="times" value="129" />
+              <option name="last" value="1581420573522" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>
@@ -799,6 +799,14 @@
             <ActionSummary>
               <option name="last" value="1581351692455" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$4$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581419855585" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
