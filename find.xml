@@ -15,6 +15,7 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>*Factory.php</mask>
+    <mask>*Test.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
