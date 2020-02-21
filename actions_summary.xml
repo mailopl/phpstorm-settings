@@ -197,8 +197,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582219765813" />
-              <option name="times" value="1028" />
+              <option name="last" value="1582278037601" />
+              <option name="times" value="1029" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582219674736" />
-              <option name="times" value="624" />
+              <option name="last" value="1582278029645" />
+              <option name="times" value="625" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,8 +1125,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582219676298" />
-              <option name="times" value="732" />
+              <option name="last" value="1582278031362" />
+              <option name="times" value="733" />
             </ActionSummary>
           </value>
         </entry>
