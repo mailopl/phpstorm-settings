@@ -173,8 +173,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582219762811" />
-              <option name="times" value="7382" />
+              <option name="last" value="1582278703057" />
+              <option name="times" value="7383" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582278029645" />
-              <option name="times" value="625" />
+              <option name="last" value="1582278700820" />
+              <option name="times" value="627" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,16 +1117,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582219790037" />
-              <option name="times" value="421" />
+              <option name="last" value="1582278706639" />
+              <option name="times" value="422" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582278031362" />
-              <option name="times" value="733" />
+              <option name="last" value="1582278704920" />
+              <option name="times" value="735" />
             </ActionSummary>
           </value>
         </entry>
@@ -1213,8 +1213,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582218648996" />
-              <option name="times" value="912" />
+              <option name="last" value="1582278686784" />
+              <option name="times" value="913" />
             </ActionSummary>
           </value>
         </entry>
