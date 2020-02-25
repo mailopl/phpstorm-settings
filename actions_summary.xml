@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582633573577" />
-              <option name="times" value="1517" />
+              <option name="last" value="1582644815564" />
+              <option name="times" value="1518" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582635695799" />
-              <option name="times" value="1275" />
+              <option name="last" value="1582644799897" />
+              <option name="times" value="1276" />
             </ActionSummary>
           </value>
         </entry>
@@ -533,8 +533,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582633467227" />
-              <option name="times" value="764" />
+              <option name="last" value="1582644816012" />
+              <option name="times" value="767" />
             </ActionSummary>
           </value>
         </entry>
@@ -1205,16 +1205,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582633610407" />
-              <option name="times" value="579" />
+              <option name="last" value="1582644800375" />
+              <option name="times" value="580" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582633468357" />
-              <option name="times" value="896" />
+              <option name="last" value="1582644817525" />
+              <option name="times" value="899" />
             </ActionSummary>
           </value>
         </entry>
