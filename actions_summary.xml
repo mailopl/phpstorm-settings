@@ -61,8 +61,8 @@
         <entry key="ActivateDebugToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582725003285" />
-              <option name="times" value="129" />
+              <option name="last" value="1582837595075" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582832052291" />
-              <option name="times" value="10748" />
+              <option name="last" value="1582837621178" />
+              <option name="times" value="10749" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582827943795" />
-              <option name="times" value="466" />
+              <option name="last" value="1582837627434" />
+              <option name="times" value="467" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,16 +525,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582827849153" />
-              <option name="times" value="1212" />
+              <option name="last" value="1582837639381" />
+              <option name="times" value="1213" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582826238828" />
-              <option name="times" value="845" />
+              <option name="last" value="1582837662123" />
+              <option name="times" value="846" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +733,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1582831696529" />
-              <option name="times" value="2577" />
+              <option name="last" value="1582837643647" />
+              <option name="times" value="2578" />
             </ActionSummary>
           </value>
         </entry>
@@ -813,8 +813,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582828028382" />
-              <option name="times" value="3978" />
+              <option name="last" value="1582837656951" />
+              <option name="times" value="3981" />
             </ActionSummary>
           </value>
         </entry>
@@ -1109,24 +1109,24 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582827948348" />
-              <option name="times" value="451" />
+              <option name="last" value="1582837629803" />
+              <option name="times" value="452" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582827947980" />
-              <option name="times" value="455" />
+              <option name="last" value="1582837629083" />
+              <option name="times" value="458" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582825778943" />
-              <option name="times" value="86" />
+              <option name="last" value="1582837628359" />
+              <option name="times" value="87" />
             </ActionSummary>
           </value>
         </entry>
@@ -1229,8 +1229,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582826240277" />
-              <option name="times" value="997" />
+              <option name="last" value="1582837664175" />
+              <option name="times" value="998" />
             </ActionSummary>
           </value>
         </entry>
