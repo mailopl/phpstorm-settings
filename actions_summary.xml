@@ -301,8 +301,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582823877523" />
-              <option name="times" value="8645" />
+              <option name="last" value="1582824727626" />
+              <option name="times" value="8646" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +805,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582823887930" />
-              <option name="times" value="3926" />
+              <option name="last" value="1582824738653" />
+              <option name="times" value="3929" />
             </ActionSummary>
           </value>
         </entry>
@@ -1213,8 +1213,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582823811358" />
-              <option name="times" value="651" />
+              <option name="last" value="1582824741910" />
+              <option name="times" value="654" />
             </ActionSummary>
           </value>
         </entry>
