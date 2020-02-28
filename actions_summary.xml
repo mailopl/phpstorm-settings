@@ -365,8 +365,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582923255904" />
-              <option name="times" value="2295" />
+              <option name="last" value="1582924238990" />
+              <option name="times" value="2296" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582922269250" />
-              <option name="times" value="536" />
+              <option name="last" value="1582924238743" />
+              <option name="times" value="537" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,16 +1125,16 @@
         <entry key="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1582916789110" />
-              <option name="times" value="119" />
+              <option name="last" value="1582924241882" />
+              <option name="times" value="120" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582922273210" />
-              <option name="times" value="517" />
+              <option name="last" value="1582924239864" />
+              <option name="times" value="518" />
             </ActionSummary>
           </value>
         </entry>
