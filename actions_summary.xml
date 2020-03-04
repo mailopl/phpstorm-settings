@@ -5,8 +5,8 @@
         <entry key="$Copy">
           <value>
             <ActionSummary>
-              <option name="last" value="1583243067078" />
-              <option name="times" value="134" />
+              <option name="last" value="1583312221713" />
+              <option name="times" value="135" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1583226605193" />
-              <option name="times" value="155" />
+              <option name="last" value="1583312219658" />
+              <option name="times" value="157" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583243769202" />
-              <option name="times" value="12875" />
+              <option name="last" value="1583312215664" />
+              <option name="times" value="12878" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +565,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1583243827853" />
-              <option name="times" value="968" />
+              <option name="last" value="1583312290868" />
+              <option name="times" value="970" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1583243833710" />
-              <option name="times" value="3143" />
+              <option name="last" value="1583312217264" />
+              <option name="times" value="3144" />
             </ActionSummary>
           </value>
         </entry>
@@ -1317,16 +1317,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1583243794939" />
-              <option name="times" value="833" />
+              <option name="last" value="1583312294845" />
+              <option name="times" value="834" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583243829302" />
-              <option name="times" value="1157" />
+              <option name="last" value="1583312291447" />
+              <option name="times" value="1159" />
             </ActionSummary>
           </value>
         </entry>
