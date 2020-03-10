@@ -621,8 +621,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1583781789370" />
-              <option name="times" value="1259" />
+              <option name="last" value="1583830300765" />
+              <option name="times" value="1260" />
             </ActionSummary>
           </value>
         </entry>
@@ -1453,16 +1453,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1583781622184" />
-              <option name="times" value="1123" />
+              <option name="last" value="1583830298317" />
+              <option name="times" value="1133" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583781791395" />
-              <option name="times" value="1507" />
+              <option name="last" value="1583830302502" />
+              <option name="times" value="1508" />
             </ActionSummary>
           </value>
         </entry>
