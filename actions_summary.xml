@@ -565,8 +565,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1584094629076" />
-              <option name="times" value="933" />
+              <option name="last" value="1584103789482" />
+              <option name="times" value="934" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1584095944794" />
-              <option name="times" value="1400" />
+              <option name="last" value="1584103786998" />
+              <option name="times" value="1401" />
             </ActionSummary>
           </value>
         </entry>
@@ -1317,8 +1317,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1584094592784" />
-              <option name="times" value="888" />
+              <option name="last" value="1584103791008" />
+              <option name="times" value="889" />
             </ActionSummary>
           </value>
         </entry>
@@ -1469,8 +1469,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1584096485384" />
-              <option name="times" value="1697" />
+              <option name="last" value="1584103789151" />
+              <option name="times" value="1698" />
             </ActionSummary>
           </value>
         </entry>
