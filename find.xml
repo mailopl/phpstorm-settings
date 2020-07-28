@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*ValidationException.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -29,5 +29,7 @@
     <mask>*Handler.php</mask>
     <mask>*Event.php</mask>
     <mask>*.php</mask>
+    <mask>*NotFoundException.php</mask>
+    <mask>*ValidationException.php</mask>
   </component>
 </application>
