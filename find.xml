@@ -27,9 +27,9 @@
     <mask>*provider.php</mask>
     <mask>*Handler.php</mask>
     <mask>*Event.php</mask>
-    <mask>*NotFoundException.php</mask>
     <mask>*ValidationException.php</mask>
     <mask>*.php</mask>
+    <mask>*NotFoundException.php</mask>
     <mask>*Exception.php</mask>
   </component>
 </application>
