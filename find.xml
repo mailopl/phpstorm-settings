@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -33,5 +32,6 @@
     <mask>Test*.php</mask>
     <mask>Enum*.php</mask>
     <mask>*Enum.php</mask>
+    <mask>*Validator.php</mask>
   </component>
 </application>
