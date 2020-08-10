@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Handler.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -23,7 +24,6 @@
     <mask>*Request.php</mask>
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
-    <mask>*Handler.php</mask>
     <mask>*Event.php</mask>
     <mask>*ValidationException.php</mask>
     <mask>*NotFoundException.php</mask>
@@ -33,5 +33,6 @@
     <mask>Enum*.php</mask>
     <mask>*Enum.php</mask>
     <mask>*Validator.php</mask>
+    <mask>*Handler.php</mask>
   </component>
 </application>
