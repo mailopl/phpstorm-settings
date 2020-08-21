@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*Case.php" />
     <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.php4</mask>
@@ -33,5 +33,6 @@
     <mask>*Handler.php</mask>
     <mask>*Validator.php</mask>
     <mask>*.php</mask>
+    <mask>*Case.php</mask>
   </component>
 </application>
