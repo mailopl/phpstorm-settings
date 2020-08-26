@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Event.php" />
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
@@ -21,7 +22,6 @@
     <mask>*Request.php</mask>
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
-    <mask>*Event.php</mask>
     <mask>*ValidationException.php</mask>
     <mask>*NotFoundException.php</mask>
     <mask>*Exception.php</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*Case.php</mask>
     <mask>UserFactory.php</mask>
+    <mask>*Event.php</mask>
   </component>
 </application>
