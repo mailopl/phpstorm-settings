@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Request.php" />
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
@@ -17,7 +18,6 @@
     <mask>*Grid.php</mask>
     <mask>*php</mask>
     <mask>*Provider.php</mask>
-    <mask>*Request.php</mask>
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
     <mask>*ValidationException.php</mask>
@@ -33,5 +33,6 @@
     <mask>*Repository.php</mask>
     <mask>*Validator.php</mask>
     <mask>*.php</mask>
+    <mask>*Request.php</mask>
   </component>
 </application>
