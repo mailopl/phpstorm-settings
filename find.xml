@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.module</mask>
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
@@ -31,7 +32,7 @@
     <mask>*Request.php</mask>
     <mask>*Seeder.php</mask>
     <mask>*Interface.php</mask>
-    <mask>*.php</mask>
     <mask>*Notification.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
