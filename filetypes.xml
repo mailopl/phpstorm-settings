@@ -4,8 +4,8 @@
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="ListOrdersByWeight.php" type="PLAIN_TEXT" />
       <mapping pattern="DockerfileAlpine" type="PLAIN_TEXT" />
-      <mapping pattern=".release-dh.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".release-dh.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
