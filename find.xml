@@ -31,7 +31,7 @@
     <mask>*Seeder.php</mask>
     <mask>*Interface.php</mask>
     <mask>*Notification.php</mask>
-    <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
