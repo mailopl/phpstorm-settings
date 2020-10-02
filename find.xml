@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.ctp</mask>
     <mask>*Factory.php</mask>
     <mask>*Field.php</mask>
@@ -24,7 +25,6 @@
     <mask>*Event.php</mask>
     <mask>*Repository.php</mask>
     <mask>*Validator.php</mask>
-    <mask>*Request.php</mask>
     <mask>*Seeder.php</mask>
     <mask>*Interface.php</mask>
     <mask>*Notification.php</mask>
@@ -32,6 +32,7 @@
     <mask>Redis*.php</mask>
     <mask>*</mask>
     <mask>*Test.php</mask>
+    <mask>*Request.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
