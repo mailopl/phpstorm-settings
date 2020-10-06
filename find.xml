@@ -3,9 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <mask>*Factory.php</mask>
-    <mask>*Field.php</mask>
-    <mask>*Entity.php</mask>
+    <option name="FILE_MASK" value="*State.php" />
     <mask>*Grid.php</mask>
     <mask>*php</mask>
     <mask>*Provider.php</mask>
@@ -33,5 +31,8 @@
     <mask>*Request.php</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*Street1.php</mask>
+    <mask>*Street2.php</mask>
+    <mask>*State.php</mask>
   </component>
 </application>
