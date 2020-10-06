@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Skunexus" />
-    <option name="defaultScopeName" value="Skunexus" />
-    <option name="SEARCH_SCOPE" value="Skunexus" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Grid.php</mask>
     <mask>*php</mask>
     <mask>*Provider.php</mask>
