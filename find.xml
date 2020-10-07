@@ -29,9 +29,9 @@
     <mask>*Middleware.php</mask>
     <mask>*Request.php</mask>
     <mask>*.php</mask>
-    <mask>*.json</mask>
     <mask>*Street1.php</mask>
     <mask>*Street2.php</mask>
     <mask>*State.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
