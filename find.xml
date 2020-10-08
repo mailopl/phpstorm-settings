@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*Grid.php</mask>
     <mask>*php</mask>
     <mask>*Provider.php</mask>
@@ -28,10 +29,10 @@
     <mask>*Test.php</mask>
     <mask>*Middleware.php</mask>
     <mask>*Request.php</mask>
-    <mask>*.php</mask>
     <mask>*Street1.php</mask>
     <mask>*Street2.php</mask>
     <mask>*State.php</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
