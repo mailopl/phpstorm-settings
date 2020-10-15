@@ -18,6 +18,7 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
