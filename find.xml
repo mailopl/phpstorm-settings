@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
-    <mask>*Grid.php</mask>
     <mask>*php</mask>
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
@@ -33,6 +32,7 @@
     <mask>*State.php</mask>
     <mask>*.json</mask>
     <mask>*Provider.php</mask>
+    <mask>*.blade.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
