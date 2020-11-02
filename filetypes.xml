@@ -12,6 +12,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="form" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
