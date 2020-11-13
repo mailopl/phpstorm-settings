@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Validator.php" />
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
     <mask>*ValidationException.php</mask>
@@ -16,7 +16,6 @@
     <mask>*Case.php</mask>
     <mask>UserFactory.php</mask>
     <mask>*Event.php</mask>
-    <mask>*Validator.php</mask>
     <mask>*Seeder.php</mask>
     <mask>*Interface.php</mask>
     <mask>*Notification.php</mask>
@@ -34,5 +33,6 @@
     <mask>*Repository.php</mask>
     <mask>*Plugin.php</mask>
     <mask>*.php</mask>
+    <mask>*Validator.php</mask>
   </component>
 </application>
