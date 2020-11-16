@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Notification.php" />
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
     <mask>*ValidationException.php</mask>
@@ -17,7 +20,6 @@
     <mask>*Event.php</mask>
     <mask>*Seeder.php</mask>
     <mask>*Interface.php</mask>
-    <mask>*Notification.php</mask>
     <mask>Redis*.php</mask>
     <mask>*</mask>
     <mask>*Test.php</mask>
@@ -33,5 +35,6 @@
     <mask>*Plugin.php</mask>
     <mask>*.php</mask>
     <mask>*Validator.php</mask>
+    <mask>*Notification.php</mask>
   </component>
 </application>
