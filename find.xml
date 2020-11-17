@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
     <mask>*ValidationException.php</mask>
@@ -27,13 +26,13 @@
     <mask>*Street1.php</mask>
     <mask>*Street2.php</mask>
     <mask>*State.php</mask>
-    <mask>*.json</mask>
     <mask>*Provider.php</mask>
     <mask>*.blade.php</mask>
     <mask>*Repository.php</mask>
     <mask>*Plugin.php</mask>
-    <mask>*.php</mask>
     <mask>*Validator.php</mask>
     <mask>*Notification.php</mask>
+    <mask>*.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
