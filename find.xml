@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Handler.php" />
     <mask>*Controller.php</mask>
     <mask>*provider.php</mask>
     <mask>*ValidationException.php</mask>
@@ -13,7 +14,6 @@
     <mask>Test*.php</mask>
     <mask>Enum*.php</mask>
     <mask>*Enum.php</mask>
-    <mask>*Handler.php</mask>
     <mask>*Case.php</mask>
     <mask>UserFactory.php</mask>
     <mask>*Event.php</mask>
@@ -35,5 +35,6 @@
     <mask>*Notification.php</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
+    <mask>*Handler.php</mask>
   </component>
 </application>
