@@ -14,7 +14,6 @@
     <mask>*Enum.php</mask>
     <mask>*Case.php</mask>
     <mask>UserFactory.php</mask>
-    <mask>*Event.php</mask>
     <mask>*Seeder.php</mask>
     <mask>*Interface.php</mask>
     <mask>Redis*.php</mask>
@@ -33,6 +32,7 @@
     <mask>*Notification.php</mask>
     <mask>*.json</mask>
     <mask>*Handler.php</mask>
+    <mask>*Event.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
