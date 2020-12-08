@@ -20,6 +20,7 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="SQL" />
     </extensionMap>
   </component>
 </application>
