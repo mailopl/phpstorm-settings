@@ -8,6 +8,7 @@
     <option name="MAX_LOOKUP_WIDTH2" value="939" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
