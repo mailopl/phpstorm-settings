@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
-    <mask>*Controller.php</mask>
+    <option name="FILE_MASK" value="*Job.php" />
     <mask>*provider.php</mask>
     <mask>*ValidationException.php</mask>
     <mask>*NotFoundException.php</mask>
@@ -34,5 +33,6 @@
     <mask>*Test.php</mask>
     <mask>*Plugin.php</mask>
     <mask>*.php</mask>
+    <mask>*Job.php</mask>
   </component>
 </application>
