@@ -19,6 +19,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="twig" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
       <mapping ext="dump" type="SQL" />
