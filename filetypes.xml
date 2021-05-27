@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="chrome" type="AUTO_DETECTED" />
       <mapping pattern="artisan" type="PHP" />
+      <mapping ext="pp" type="PHP" />
       <mapping pattern="ListOrdersByWeight.php" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml.registry" type="PLAIN_TEXT" />
