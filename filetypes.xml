@@ -4,17 +4,17 @@
       <mapping pattern="chrome" type="AUTO_DETECTED" />
       <mapping pattern="artisan" type="PHP" />
       <mapping ext="pp" type="PHP" />
-      <mapping pattern="ListOrdersByWeight.php" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml.registry" type="PLAIN_TEXT" />
-      <mapping pattern="DockerfileAlpine" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".release-dh.sh.swp" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="DockerfileAlpine" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="ListOrdersByWeight.php" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="form" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
