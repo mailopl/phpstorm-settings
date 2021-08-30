@@ -1,4 +1,11 @@
 <application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
@@ -10,6 +17,5 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="ide.settings.move.mouse.on.default.button" value="true" />
   </component>
 </application>
