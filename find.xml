@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'castoredc'" />
-    <option name="defaultScopeName" value="Project 'castoredc'" />
-    <option name="SEARCH_SCOPE" value="Project 'castoredc'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*NotFoundException.php</mask>
     <mask>*Exception.php</mask>
     <mask>Test*.php</mask>
